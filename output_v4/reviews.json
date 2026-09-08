@@ -1586,5 +1586,72 @@
   "570824728:57843855324728": {
     "review_id": "RV199",
     "product_id": "PD04"
+  },
+  "570824728:58878841224728": {
+    "status": "non_bengali_removed"
+  },
+  "526686118:53276728286118": {
+    "status": "non_bengali_removed"
+  },
+  "526686118:57737835386118": {
+    "status": "non_bengali_removed"
+  },
+  "526686118:53412388986118": {
+    "review_id": "RV200",
+    "product_id": "PD05"
+  },
+  "526686118:55100709486118": {
+    "status": "non_bengali_removed"
+  },
+  "526686118:53224997786118": {
+    "status": "non_bengali_removed"
+  },
+  "526686118:54201408286118": {
+    "review_id": "RV201",
+    "product_id": "PD05"
+  },
+  "526686118:55568433286118": {
+    "status": "non_bengali_removed"
+  },
+  "526686118:55189876786118": {
+    "status": "non_bengali_removed"
+  },
+  "526686118:55417610886118": {
+    "status": "non_bengali_removed"
+  },
+  "526686118:56661801886118": {
+    "review_id": "RV202",
+    "product_id": "PD05"
+  },
+  "526686118:53351378686118": {
+    "status": "non_bengali_removed"
+  },
+  "526686118:53674365086118": {
+    "status": "non_bengali_removed"
+  },
+  "526686118:53479930986118": {
+    "status": "non_bengali_removed"
+  },
+  "526686118:55978777186118": {
+    "status": "non_bengali_removed"
+  },
+  "526686118:56101870686118": {
+    "review_id": "RV203",
+    "product_id": "PD05"
+  },
+  "526686118:55310042186118": {
+    "status": "non_bengali_removed"
+  },
+  "526686118:57019220086118": {
+    "status": "non_bengali_removed"
+  },
+  "526686118:56085464486118": {
+    "status": "non_bengali_removed"
+  },
+  "526686118:57678262186118": {
+    "status": "non_bengali_removed"
+  },
+  "526686118:58460431786118": {
+    "status": "non_bengali_removed"
   }
 }
